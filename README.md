@@ -1,4 +1,4 @@
-# IT 2750 - Spring 2020 - Week 04 Lab
+# IT 2750 - Fall 2020 - Week 04 Lab
 ___
 #### Your Name: My Name
 #### S-Number: S0000000
