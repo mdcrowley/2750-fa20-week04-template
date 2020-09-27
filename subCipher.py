@@ -1,5 +1,5 @@
 ######################################
-# IT 2750 - Spring 2020 - Week 4 Lab #
+# IT 2750 - Fall 2020 - Week 4 Lab   #
 # Substitution Ciphers               #
 # Author:                            #
 ######################################
